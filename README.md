@@ -5,7 +5,8 @@
 The Falcon Player (FPP) is a lightweight, optimized, feature-rich sequence player designed to
 run on low-cost Single Board Computers (SBC). It was originally created to run on the $35
 Raspberry Pi, hence the middle 'P' in the short name but now the FPP supports many more
-systems. It is still mostly commonly used on a Raspberry Pi (Zero, 2, 3, 4) or a Beagle Bone (Black, Green, Pocket).
+systems. It is still mostly commonly used on a Raspberry Pi (Zero, Zero W, Zero W2, Pi2, Pi3, Pi4) 
+or a Beagle Bone (Black, Green, Pocket).
 The FPP shorthand is still used but it is now just called Falcon Player.
 
 FPP aims to be controller agnostic, it can talk E1.31,

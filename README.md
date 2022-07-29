@@ -16,7 +16,7 @@ can also be a controller on P5 and P10 Matrixes, or strings of ws2811 pixels.
 Download the latest version from [Github](https://github.com/FalconChristmas/fpp/releases)
 
 ## Where to find information
-- [FPP Manual v5.5](./FPP_Manual(5.5).pdf)
+- [FPP Manual v5.5](./FPP_Manual(6.0).pdf)
 - [Documentation in Github](https://github.com/FalconChristmas/fpp/blob/master/docs/README.md)
 - [Wiki](http://falconchristmas.com/wiki/index.php/Main_Page)
 
